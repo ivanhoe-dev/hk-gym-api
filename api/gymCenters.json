@@ -1,0 +1,53 @@
+[
+    {
+        "pageUrl": "pure1",
+        "name": "Pure Fitness",
+        "iconSrc": "pure_logo.png",
+        "pricePerMonth": 123,
+        "contractPeriod": 6,
+        "twentyFourHoursFlag": true,
+        "region": 1,
+        "address": "The Hub 23, 1/F Yip Kan St, Wong Chuk Hang",
+        "url": "http://google.com",
+        "location": {
+            "lat": "49.46800006494457",
+            "lng": "17.11514008755796"
+        },
+        "tel": "56789012",
+        "updateTime": "23-04-2021"
+    },
+    {
+        "pageUrl": "pure2",
+        "name": "Pure Fitness 2",
+        "iconSrc": "pure_logo.png",
+        "pricePerMonth": 123,
+        "contractPeriod": 8,
+        "twentyFourHoursFlag": true,
+        "region": 9,
+        "address": "The Hub 23, 1/F Yip Kan St, Wong Chuk Hang",
+        "url": "http://google.com",
+        "location": {
+            "lat": "49.46800006494457",
+            "lng": "17.11514008755796"
+        },
+        "tel": "56789012",
+        "updateTime": "23-04-2021"
+    },
+    {
+        "pageUrl": "pure3",
+        "name": "Pure Fitness 3",
+        "iconSrc": "pure_logo.png",
+        "pricePerMonth": 10,
+        "contractPeriod": 15,
+        "twentyFourHoursFlag": false,
+        "region": 116,
+        "address": "The Hub 23, 1/F Yip Kan St, Wong Chuk Hang",
+        "url": "http://google.com",
+        "location": {
+            "lat": "49.46800006494457",
+            "lng": "17.11514008755796"
+        },
+        "tel": "56789012",
+        "updateTime": "23-04-2021"
+    }
+]
